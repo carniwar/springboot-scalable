@@ -2,6 +2,7 @@ This is a simple app with Spring Boot stack. I've some nice tools like:
 - Spring Boot and Spring Context
 - Maven (dependency management, building lifecycle and modules structure)
 - JPA/Hibernate (persist data on relational database, but could be on NoSQL)
+- Flyway (database version manager)
 - Security (basic HTTP with in memory users and roles)
 - Rest (webservice integration)
 - Swagger (rest documentation)
